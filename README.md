@@ -26,9 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="{Walkthrough}" title="Walkthrough"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="{Walkthrough.mp4}" title="Walkthrough"><img src="{image-url}" alt="Walkthrough" /></a>
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
